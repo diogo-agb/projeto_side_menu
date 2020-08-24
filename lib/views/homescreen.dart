@@ -39,7 +39,7 @@ class HomeScreen extends StatelessWidget {
                     Padding(
                       padding: const EdgeInsets.all(8.0),
                       child: Text(
-                        'Flutter',
+                        'Flutte',
                         style: TextStyle(color: Colors.white, fontSize: 20),
                       ),
                     )
